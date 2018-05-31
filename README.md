@@ -1,21 +1,24 @@
-How to use: 
+#### HOW TO INSTALL 
+npm install -g https://github.com/febaisi/findhelpers.git
 
--- SFIND 
-Find strings inside filtered files. 
-E.g:
-Find a string in java files ... 
-$ sfind java getAvalue
+#### Usage
 
--- FFIND 
-Search for files
-E.g: 
-Looking for readme files
-$ ffind Readme*
+#### SFIND 
+Find strings inside filtered files.<br/> 
+E.g:<br/> 
+Find a string in java files ... <br/> 
+$ sfind java getAvalue<br/> 
+
+#### FFIND 
+Search for files<br/> 
+E.g: <br/> 
+Looking for readme files<br/> 
+$ ffind Readme*<br/> 
 
 
--- ANDROIDSTRING
-Look strings thorugh all android resource files
-E.g: 
-Find log_title string
-$ androidstring log_title
+#### ANDROIDSTRING 
+Look strings thorugh all android resources files<br/> 
+E.g: <br/> 
+Find log_title string<br/> 
+$ androidstring log_title<br/> 
 
