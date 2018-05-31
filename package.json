@@ -1,0 +1,18 @@
+{
+  "name": "findhelper",
+  "version": "1.0.0",
+  "description": "This package is just a helper to find strings using terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Baisi",
+  "license": "n/a",
+  "files": "",
+  "bin": {
+    "sfind": "./scripts/sfind.sh",
+    "ffind": "./scripts/ffind.sh",
+    "androidstring": "./scripts/androidstring.sh"
+  }
+}
+
