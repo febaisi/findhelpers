@@ -9,15 +9,11 @@ E.g:<br/>
 Find a string in java files ... <br/> 
 $ sfind java getAvalue<br/> 
 
----<br/>
-
 ##### -- FFIND 
 Search for files<br/> 
 E.g: <br/> 
 Looking for readme files<br/> 
 $ ffind Readme*<br/> 
-
----<br/>
 
 #### -- ANDROIDSTRING 
 Look strings thorugh all android resources files<br/> 
