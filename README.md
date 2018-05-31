@@ -1,7 +1,7 @@
 #### How to install (you should have npm installed)
 npm install -g https://github.com/febaisi/findhelpers.git
 
-#### Usage
+#### Usage:
 
 ##### -- SFIND 
 Find strings inside filtered files.<br/> 
