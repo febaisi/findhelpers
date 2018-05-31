@@ -15,7 +15,7 @@ E.g: <br/>
 Looking for readme files<br/> 
 $ ffind Readme*<br/> 
 
-#### -- ANDROIDSTRING 
+##### -- ANDROIDSTRING 
 Look strings thorugh all android resources files<br/> 
 E.g: <br/> 
 Find log_title string<br/> 
